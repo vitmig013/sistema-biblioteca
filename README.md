@@ -1,7 +1,3 @@
-Aqui está o arquivo `README.md` estruturado exclusivamente com base nas especificações, metas e regras descritas no documento de requisitos (`projeto.md`):
-
----
-
 # Modernização do Sistema de Gestão de Acervo e Empréstimos
 
 Este repositório contém a documentação e a especificação técnica para o desenvolvimento do Sistema de Gestão de Acervo e Empréstimos. O projeto foi idealizado para modernizar o ecossistema de atendimento, substituindo o controle manual por uma solução automatizada e robusta.
