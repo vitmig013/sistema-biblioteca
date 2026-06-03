@@ -2,15 +2,6 @@
 
 Este repositório contém a documentação e a especificação técnica para o desenvolvimento do Sistema de Gestão de Acervo e Empréstimos. O projeto foi idealizado para modernizar o ecossistema de atendimento, substituindo o controle manual por uma solução automatizada e robusta.
 
-## 📋 Informações do Projeto
-
-* **Versão Atual:** 2.5 (Revisada para Desenvolvimento).
-* **Data da Última Revisão:** 13/05/2026.
-* **Status:** Pronto para Implementação.
-* **Responsáveis/Equipe:** Beatriz Gasparini, Enzo Lima, Jailton Sousa, Leandro de Sá, Matheus Osmédio, Matheus Souza e Nicolas Urata.
-
----
-
 ## 🎯 Visão Estratégica e Contexto
 
 O objetivo central é substituir o controle manual de mais de 70 empréstimos diários, mitigando falhas operacionais e extinguindo o retrabalho no atendimento.
