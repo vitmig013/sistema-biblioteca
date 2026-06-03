@@ -1,6 +1,6 @@
 # Modernização do Sistema de Biblioteca
 
-Este repositório contém a documentação e a especificação técnica para o desenvolvimento do Sistema de Gestão de Acervo e Empréstimos. O projeto foi idealizado para modernizar o ecossistema de atendimento, substituindo o controle manual por uma solução automatizada e robusta.
+Este repositório contém a documentação e a especificação técnica para o desenvolvimento do Sistema de Gestão de Acervo e Empréstimos. O projeto foi idealizado para modernizar o ecossistema de atendimento, substituindo o controle manual por uma solução automatizada e robusto. Realizado na linguagem C# com ASP.NET Core MVC no backend, SQLite como banco de dados e HTML/CSS/JavaScript com Bootstrap no frontend. 
 
 ## 🎯 Visão Estratégica e Contexto
 
